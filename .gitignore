@@ -12,7 +12,8 @@ core
 artifacts/
 .pytest_cache/
 archive/
-
+analysis/
+daymet/
 
 daymet/data/
 daymet/dem/
