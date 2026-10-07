@@ -14,7 +14,8 @@ artifacts/
 archive/
 analysis/
 daymet/
-
+checkpoints/
+.aws/
 daymet/data/
 daymet/dem/
 daymet/prepared/shared/
